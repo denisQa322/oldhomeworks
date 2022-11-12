@@ -1,0 +1,47 @@
+.images{
+    display: flex;
+    padding: 50px;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.image{
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    margin: 50px 50px 50px 50px;
+}
+.img1{
+    background-color: black;
+}
+
+.img2{
+    background-color: red;
+}
+
+.img3{
+    background-color: yellow;
+}
+
+.img4{
+    background-color: orange;
+}
+
+.img5{
+    background-color: blue;
+}
+
+.img6{
+    background-color: purple;
+}
+
+.img7{
+    background-color: brown;
+}
+
+.img8{
+    background-color: pink;
+}
+
+.img9{
+    background-color: green;
+}
